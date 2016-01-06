@@ -1,0 +1,30 @@
+.dog {
+  width: 30%;
+  float: left;
+  margin: 10px;
+}
+
+.cat {
+  width: 30%;
+  float: left;
+  margin: 10px;
+}
+
+.parrot {
+  width: 30%;
+  float: left;
+  margin: 10px;
+}
+
+.dog p {
+  font-family: cursive;
+  color: #333;
+}
+
+.cat h1 {
+  font-style: italic;
+}
+
+.parrot img {
+  border: 5px solid black;
+}
